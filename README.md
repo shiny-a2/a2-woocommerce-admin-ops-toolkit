@@ -111,6 +111,12 @@ flowchart TD
 - [Failure mode matrix](docs/infrastructure/failure-mode-matrix.md)
 - [Infrastructure samples](samples/infrastructure)
 
+## Quality Signal
+
+- [Quality signal notes](docs/quality-signal.md)
+- [Sample PHP syntax workflow](.github/workflows/sample-php-lint.yml)
+- [Samples directory](samples)
+
 ## Security & Privacy Notes
 
 No real order data, customer data, payment logic, private meta keys, gateway details, or internal business workflows are included.
