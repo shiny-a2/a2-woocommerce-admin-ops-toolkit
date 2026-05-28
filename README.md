@@ -2,6 +2,10 @@
 
 Public-safe case study for WooCommerce admin tooling around exceptional order workflows, operational flags, controlled edits, and audit-friendly productivity improvements.
 
+## Reviewer Shortcut
+
+This repo demonstrates WooCommerce admin tooling as operational infrastructure, not just backend convenience UI. It relates to exceptional order workflows where staff need controlled mutations, snapshots, audit records, and rollback thinking. It proves permission gates, validation, operation services, auditability, and partial-failure handling. Start with `docs/infrastructure`, `docs/engineering-notes`, and `samples/infrastructure`. This is a showcase repository, not a production package.
+
 ## Overview
 
 Commerce operations often break down in the admin area, not the storefront. Teams need to replace items, correct operational details, review stock context, export cleaner data, and handle exceptions without weakening order integrity.
@@ -115,8 +119,9 @@ No real order data, customer data, payment logic, private meta keys, gateway det
 
 PHP, WordPress, WooCommerce, MySQL, JavaScript, admin AJAX/REST.
 
-## Related Links
+## Related Portfolio
 
 - Portfolio: https://amiraliyaghouti.com
 - Projects: https://amiraliyaghouti.com/projects.html
+- Case studies: https://amiraliyaghouti.com/case-studies.html
 - GitHub profile: https://github.com/shiny-a2
