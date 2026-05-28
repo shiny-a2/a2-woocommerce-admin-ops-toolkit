@@ -95,6 +95,11 @@ flowchart TD
 - repository layer;
 - audit logger.
 
+## Engineering Notes
+
+- [Admin tools as operational infrastructure](docs/engineering-notes/admin-tools-as-operational-infrastructure.md)
+- [Safe admin actions and rollback thinking](docs/engineering-notes/safe-admin-actions-and-rollback-thinking.md)
+
 ## Security & Privacy Notes
 
 No real order data, customer data, payment logic, private meta keys, gateway details, or internal business workflows are included.
@@ -108,4 +113,3 @@ PHP, WordPress, WooCommerce, MySQL, JavaScript, admin AJAX/REST.
 - Portfolio: https://amiraliyaghouti.com
 - Projects: https://amiraliyaghouti.com/projects.html
 - GitHub profile: https://github.com/shiny-a2
-
