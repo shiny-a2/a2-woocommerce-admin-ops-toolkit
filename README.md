@@ -100,6 +100,13 @@ flowchart TD
 - [Admin tools as operational infrastructure](docs/engineering-notes/admin-tools-as-operational-infrastructure.md)
 - [Safe admin actions and rollback thinking](docs/engineering-notes/safe-admin-actions-and-rollback-thinking.md)
 
+## Infrastructure Notes
+
+- [Request lifecycle](docs/infrastructure/request-lifecycle.md)
+- [Observability and instrumentation](docs/infrastructure/observability-and-instrumentation.md)
+- [Failure mode matrix](docs/infrastructure/failure-mode-matrix.md)
+- [Infrastructure samples](samples/infrastructure)
+
 ## Security & Privacy Notes
 
 No real order data, customer data, payment logic, private meta keys, gateway details, or internal business workflows are included.
