@@ -1,5 +1,7 @@
 # A2 WooCommerce Admin Ops Toolkit
 
+[![Sample PHP Syntax Check](https://github.com/shiny-a2/a2-woocommerce-admin-ops-toolkit/actions/workflows/sample-php-lint.yml/badge.svg)](https://github.com/shiny-a2/a2-woocommerce-admin-ops-toolkit/actions/workflows/sample-php-lint.yml)
+
 Public-safe case study for WooCommerce admin tooling around exceptional order workflows, operational flags, controlled edits, and audit-friendly productivity improvements.
 
 ## Reviewer Shortcut
